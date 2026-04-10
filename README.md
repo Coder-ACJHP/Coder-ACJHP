@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**Coder-ACJHP/Coder-ACJHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Bilal Khalid  (Coder ACJHP) 👋
 
 ### Senior iOS & Mobile Developer
@@ -43,8 +27,9 @@ I am a **Senior iOS Developer** with over **8 years of professional experience**
 
 ### 🚀 Featured Projects
 
-- **[Anylight Photo Editor](https://apps.apple.com/us/app/anylight-ai-photo-editor/id1523192876)** - A high-end Photo Editor (successfully developed and sold in 2025).
-- **[Cleanjet](https://apps.apple.com/us/app/cleanjet-ai-phone-cleaner/id6749763106)** - High-performanceAI powered cleanup mobile application.
+- **[Anylight Photo Editor](https://apps.apple.com/us/app/anylight-ai-photo-editor/id1523192876)** - A high-end iOS Photo Editor (successfully developed and sold in 2025).
+- **[Cleanjet](https://apps.apple.com/us/app/cleanjet-ai-phone-cleaner/id6749763106)** - High-performanceAI powered cleanup iOS application.
+- **[Babybell](https://apps.apple.com/pl/app/babybell-pregnancy-tracker/id6477773093)** - Ultimate pregnancy companion iOS app.
 - **[Hotel Management System](https://github.com/Coder-ACJHP/Hotel-Properties-Management-System)** - A comprehensive Java SE-based desktop project.
 - **[Java Arabic Community](https://github.com/Coder-ACJHP/Java-Arabic-Community)** - Open-source community project built with Java EE, Spring Framework.
 
