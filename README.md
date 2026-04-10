@@ -7,10 +7,10 @@ I am a **Senior iOS Developer** with over **8 years of professional experience**
 ---
 
 ### 📱 Professional Focus
-- **Architecture:** Strong advocate of **Clean Architecture**, MVVM, and modular design.
-- **Modern Swift:** Expert in **Swift**, focusing on `async/await`, structured concurrency, and performance optimization.
+- **Architecture:** Strong advocate of MVVM, MVC, Clean Architecture and modular design.
+- **Modern Swift:** Good knowledge in **Swift** legacy api's (gcd) and modern api like concurrency (async/await/actor), Combine and performance optimization.
 - **UI/UX:** Deep expertise in **UIKit** (custom components) and building modern interfaces with **SwiftUI**.
-- **Core Interests:** Performance profiling (Instruments), memory management, and AI-integrated mobile solutions.
+- **Core Interests:** Core Image, AVFoundation, Vision, Restful api integrated apps, performance profiling (Instruments), memory management, and AI-integrated mobile solutions.
 
 ---
 
@@ -30,15 +30,9 @@ I am a **Senior iOS Developer** with over **8 years of professional experience**
 - **[Anylight Photo Editor](https://apps.apple.com/us/app/anylight-ai-photo-editor/id1523192876)** - A high-end iOS Photo Editor (successfully developed and sold in 2025).
 - **[Cleanjet](https://apps.apple.com/us/app/cleanjet-ai-phone-cleaner/id6749763106)** - High-performanceAI powered cleanup iOS application.
 - **[Babybell](https://apps.apple.com/pl/app/babybell-pregnancy-tracker/id6477773093)** - Ultimate pregnancy companion iOS app.
+- More than 15+ projects developed with Swift for iOS from the scratch to release 
 - **[Hotel Management System](https://github.com/Coder-ACJHP/Hotel-Properties-Management-System)** - A comprehensive Java SE-based desktop project.
 - **[Java Arabic Community](https://github.com/Coder-ACJHP/Java-Arabic-Community)** - Open-source community project built with Java EE, Spring Framework.
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-ACJHP&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-ACJHP&layout=compact&theme=radical)
 
 ---
 
