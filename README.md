@@ -20,7 +20,7 @@ I am a **Senior iOS Developer** with over **8 years of professional experience**
 | :--- | :--- |
 | **iOS Development** | Swift, SwiftUI, UIKit, Objective-C++(basics), No storyboard |
 | **Architecture** | Clean Architecture, MVVM, MVC, Repository & Use Case Patterns, Router |
-| **Tools & CI/CD** | Xcode, Cursor AI, Git, GitHub Actions, Xcode Instruments, Create ML |
+| **Tools & CI/CD** | Xcode, Cursor AI, Xcode Instruments, Create ML, Git, GitHub Actions, Fastlane |
 | **Backend (Hobbyist)** | Java (Spring Framework, Hibernate, Apache), MySQL |
 
 ---
