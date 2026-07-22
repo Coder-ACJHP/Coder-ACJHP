@@ -27,8 +27,7 @@ I am a **Senior iOS Developer** with over **8 years of professional experience**
 
 ### 🚀 Featured Projects
 
-- **[StandBy Clock - Night Display](https://apps.apple.com/tr/app/standby-clock-night-display/id6766165559
-StandBy Clock  - Night Display))** - Aestethic StandBy Clock includes 17 awesome faces and weather features.
+- **[StandBy Clock - Night Display](https://apps.apple.com/tr/app/standby-clock-night-display/id6766165559)** - Aestethic StandBy Clock includes 17 awesome faces and weather features.
 - **[Anylight Photo Editor](https://apps.apple.com/us/app/anylight-ai-photo-editor/id1523192876)** - A high-end iOS Photo Editor (successfully developed and sold in 2025).
 - **[Cleanjet](https://apps.apple.com/us/app/cleanjet-ai-phone-cleaner/id6749763106)** - High-performanceAI powered cleanup iOS application.
 - **[Babybell](https://apps.apple.com/pl/app/babybell-pregnancy-tracker/id6477773093)** - Ultimate pregnancy companion iOS app.
