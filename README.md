@@ -31,7 +31,8 @@ I am a **Senior iOS Developer** with over **8 years of professional experience**
 - **[Anylight Photo Editor](https://apps.apple.com/us/app/anylight-ai-photo-editor/id1523192876)** - A high-end iOS Photo Editor (successfully developed and sold in 2025).
 - **[Cleanjet](https://apps.apple.com/us/app/cleanjet-ai-phone-cleaner/id6749763106)** - High-performanceAI powered cleanup iOS application.
 - **[Babybell](https://apps.apple.com/pl/app/babybell-pregnancy-tracker/id6477773093)** - Ultimate pregnancy companion iOS app.
-- More than 15+ projects developed with Swift for iOS from the scratch to release 
+- More than 15+ projects developed with Swift for iOS from the scratch to release
+- **[SiriusSync ITS]((https://siriussyncits.carrd.co/))** - Inventory & ERP Application
 - **[Hotel Management System](https://github.com/Coder-ACJHP/Hotel-Properties-Management-System)** - A comprehensive Java SE-based desktop project.
 - **[Java Arabic Community](https://github.com/Coder-ACJHP/Java-Arabic-Community)** - Open-source community project built with Java EE, Spring Framework.
 
